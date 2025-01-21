@@ -1,2 +1,2 @@
-# Internshi_Assignment
+# Internship_Assignment
 ..
